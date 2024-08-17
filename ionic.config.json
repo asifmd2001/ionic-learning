@@ -1,0 +1,7 @@
+{
+  "name": "time-track",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
